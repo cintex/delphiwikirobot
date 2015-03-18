@@ -1,0 +1,1 @@
+DelphiWikiRobot — an automated tool to edit wiki pages through MediaWiki API.
